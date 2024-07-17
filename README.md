@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Hello ,this is my first with js.
+Hello ,this is my first project with js.
 
 Download all the files and store them is the same folder and open the index.html file in your favorite browser to play or you can also go this link : https://its-my-tic-tac-toe.netlify.app/ .
 
